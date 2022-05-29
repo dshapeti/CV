@@ -1,0 +1,34 @@
+  body{
+    background-color: #E8F9FD;
+    margin-left: 10%;
+    margin-right: 10%;
+
+  }
+
+  hr{
+    border-color: #7F8487;
+    border-style: dotted none none none;
+    height: 5px;
+    border-width: 5px;
+    width: 5%;
+  }
+
+  .centered{
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .myintro{
+    border-style: solid;
+    border-radius: 8px;
+    padding: 10px;
+    border-color: #7F8487;
+  }
+
+  h1{
+    color: #66BFBF;
+    }
+
+  h3{
+      color: #66BFBF;
+    }
